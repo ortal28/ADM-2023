@@ -1,5 +1,5 @@
 # ADM-2023
-## H2 Submission by Ortal Hadad
+## Submission by Ortal Hadad
 ......matricola - 2105231
 ADM - HW1:
 
