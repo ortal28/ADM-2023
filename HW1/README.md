@@ -8,3 +8,4 @@ The directory contain 2 files:
 ... Each cell of the notebook contains an exercise. 
 2. `stamps/`- that contains PDFs assessing my successful exercises.
 
+
