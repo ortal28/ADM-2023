@@ -1,6 +1,6 @@
 # ADM-2023
-## Submission by Ortal Hadad
-......matricola - 2105231
+### Submission by Ortal Hadad
+### matricola - 2105231
 ADM - HW1:
 
 The directory contain 2 files:
