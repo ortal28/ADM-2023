@@ -4,7 +4,7 @@
 
 The directory contain 2 files:
 1. `scripts.py`- a Jupyter Notebook that contains all the solutions of the exercises from Hackerrank.
-... Each cell of the notebook contains an exercise. 
+⋅⋅⋅Each cell of the notebook contains an exercise. 
 2. `stamps/`- that contains PDFs assessing my successful exercises.
 
 
