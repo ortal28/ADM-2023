@@ -1,9 +1,9 @@
 # ADM-2023
-Ortal Hadad
-matricola - 2105231
-ADM - HW1:
+### HM1 Submission by Ortal Hadad
+### matricola - 2105231
 
 The directory contain 2 files:
-1.a Jupyter Notebook, where each cell contains solution for an exercise.
-2.PDFs assessing my successful exercises from Hackerank website.
+1. `scripts.py`- a Jupyter Notebook that contains all the solutions of the exercises from Hackerrank. Each cell of the notebook contains an exercise. 
+2. `stamps/`- that contains PDFs assessing my successful exercises.
+
 
